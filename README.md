@@ -1,6 +1,6 @@
 # Unsplash Search App starter files
 
-Starter files for the Unsplash Search app built with Svelte 3. Tutorial: https://freshman.tech/svelte-unsplash-search/
+Starter files for the Unsplash Search app built with Svelte 3. Tutorial: https://freshman.tech/unsplash-search/
 
 Here's what the completed application looks like:
 
@@ -16,4 +16,4 @@ You need to have Node.js and npm installed on your computer.
 
 Clone this repository to your filesystem.
 
-`cd` into the project directory and follow along with the [tutorial](https://freshman.tech/svelte-unsplash-search/).
+`cd` into the project directory and follow along with the [tutorial](https://freshman.tech/unsplash-search/).
